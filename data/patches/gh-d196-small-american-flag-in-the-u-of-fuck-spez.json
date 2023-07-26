@@ -1,0 +1,32 @@
+{
+	"id": 1925,
+	"name": "Small American Flag in the U of \"Fuck Spez\"",
+	"description": "Made to represent Americans who hates spez's decision to shut down 3rd party apps",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				1186,
+				-79
+			],
+			[
+				1194,
+				-79
+			],
+			[
+				1194,
+				-71
+			],
+			[
+				1186,
+				-71
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1190,
+			-75
+		]
+	}
+}
