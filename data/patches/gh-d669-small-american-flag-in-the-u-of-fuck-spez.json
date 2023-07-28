@@ -1,0 +1,40 @@
+{
+	"id": 1925,
+	"name": "Small American Flag in the U of \"Fuck Spez\"",
+	"description": "Represents Americans Who Wanted to be in the \"fuck Spez\"",
+	"links": {
+		"subreddit": [
+			"americanflaginplace"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				1185,
+				-79
+			],
+			[
+				1195,
+				-79
+			],
+			[
+				1195,
+				-71
+			],
+			[
+				1185,
+				-71
+			],
+			[
+				1185,
+				-71
+			]
+		]
+	},
+	"center": {
+		"250": [
+			1190,
+			-75
+		]
+	}
+}
